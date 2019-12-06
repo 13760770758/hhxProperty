@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'hhxProperty'
-  s.version          = '0.0.2'
+  s.version          = '0.0.1'
   s.summary          = 'hhxProperty is a library for personal use.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/hhx/hhxProperty'
+  s.homepage         = 'https://github.com/13760770758/hhxProperty'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hhx' => '921094044@qq.com' }
-  s.source           = { :git => 'https://github.com/hhx/hhxProperty.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/13760770758/hhxProperty', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
