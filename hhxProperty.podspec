@@ -25,12 +25,12 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hhx' => '921094044@qq.com' }
-  s.source           = { :git => 'https://github.com/13760770758/hhxProperty', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/13760770758/hhxProperty.git', :tag => s.version.to_s}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'hhxProperty/Classes/**'
+  s.source_files = 'hhxProperty/Classes/*.{h,m}'
   
   s.vendored_frameworks = 'hhxProperty.framework'
   
