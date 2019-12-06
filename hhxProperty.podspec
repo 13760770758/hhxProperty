@@ -30,9 +30,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'hhxProperty/Classes/**/*'
+  s.source_files = 'hhxProperty/Classes/**'
   
-  s.ios.vendored_frameworks = 'hhxProperty.framework'
+  s.vendored_frameworks = 'hhxProperty.framework'
   
   # s.resource_bundles = {
   #   'hhxProperty' => ['hhxProperty/Assets/*.png']
