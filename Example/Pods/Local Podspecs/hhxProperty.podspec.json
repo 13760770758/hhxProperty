@@ -1,0 +1,23 @@
+{
+  "name": "hhxProperty",
+  "version": "0.0.1",
+  "summary": "hhxProperty is a library for personal use.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/13760770758/hhxProperty",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hhx": "921094044@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/13760770758/hhxProperty.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "hhxProperty/**/*.{h,m}",
+  "vendored_frameworks": "hhxProperty.framework"
+}

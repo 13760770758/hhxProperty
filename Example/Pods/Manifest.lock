@@ -1,0 +1,16 @@
+PODS:
+  - hhxProperty (0.0.1)
+
+DEPENDENCIES:
+  - hhxProperty (from `../`)
+
+EXTERNAL SOURCES:
+  hhxProperty:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hhxProperty: 6f8e8434d98a327b47964f7b2c59d7a708677680
+
+PODFILE CHECKSUM: ea817ce485590ac80a9ae0119e948169d457fbcc
+
+COCOAPODS: 1.8.3

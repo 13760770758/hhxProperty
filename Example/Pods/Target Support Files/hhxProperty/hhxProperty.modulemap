@@ -1,0 +1,6 @@
+framework module hhxProperty {
+  umbrella header "hhxProperty-umbrella.h"
+
+  export *
+  module * { export * }
+}
