@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'hhxProperty_Example' do
+  pod 'hhxProperty', :path => '../'
+
+  target 'hhxProperty_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
