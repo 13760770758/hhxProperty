@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hhxProperty
 
 [![CI Status](https://img.shields.io/travis/hhx/hhxProperty.svg?style=flat)](https://travis-ci.org/hhx/hhxProperty)
@@ -27,3 +28,6 @@ hhx, 921094044@qq.com
 ## License
 
 hhxProperty is available under the MIT license. See the LICENSE file for more info.
+=======
+# hhxProperty
+>>>>>>> 07c8ce96ece532055ddb600f3c929412ca99506b
