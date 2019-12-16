@@ -18,6 +18,6 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "hhxProperty/**/*.{h,m}",
+  "source_files": "hhxProperty/Classes/**/*",
   "vendored_frameworks": "hhxProperty.framework"
 }

@@ -7,49 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0484F14E7F3C363E1A565ECF577DA00B /* AdjustHeight.m in Sources */ = {isa = PBXBuildFile; fileRef = A634F336106D94BF9106844D8B5E3A32 /* AdjustHeight.m */; };
-		1569AB34DCC29198D5198940FF21F773 /* UITextField+setProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 98A37F6FF09D7E49D937D7BA449D4EFD /* UITextField+setProperty.m */; };
+		03CC22CAA300DFF5A3242604374E749D /* UIImageView+BorderCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 856A94718CA2B247CBF0ACCBCC1843D2 /* UIImageView+BorderCorner.m */; };
 		168976FCCBF89CFA36A271420BDBC1DF /* Pods-hhxProperty_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 177FCB36B5CE6DC29C15AA46B19B7BB5 /* Pods-hhxProperty_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		260003DFBFA9C0DBE187B017A0B72EAA /* hhxProperty-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 78227CA04DD24DAE79210C0724EC569F /* hhxProperty-dummy.m */; };
-		2827B5277FFE4E108FDEC24E606C71AF /* UITextField+setProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = F7FACD60A09AE7DE85CF554FF8540C1F /* UITextField+setProperty.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		293E7C2CACCD038586C6B2002A900F7C /* UILabel+setProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DDD5AE38907146544E44E33B067623A /* UILabel+setProperty.m */; };
-		2D22CB0E3DEB684E9B40C8D21BCB5CA0 /* NSArray+HYBUnicodeReadable.h in Headers */ = {isa = PBXBuildFile; fileRef = 64D7727F817BC69C42125386DFD9E337 /* NSArray+HYBUnicodeReadable.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		21762EAEB93F5489E5F1A68216F1C679 /* NSSet+HYBUnicodeReadable.h in Headers */ = {isa = PBXBuildFile; fileRef = 297A41056AA07D0FB576BFB1E7AE03EA /* NSSet+HYBUnicodeReadable.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		255D0406B0BB9253BF5C3D6EBADDE194 /* NSDictionary+HYBUnicodeReadable.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EC80FD6C750396370970048A21F1E4D /* NSDictionary+HYBUnicodeReadable.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		260003DFBFA9C0DBE187B017A0B72EAA /* hhxProperty-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 16B2AB7AE0D764BFEF0B3BA255AE7E33 /* hhxProperty-dummy.m */; };
+		2CAEEBFF5010265A36CDA76272F6964B /* UIButton+manager.h in Headers */ = {isa = PBXBuildFile; fileRef = 72F0544777CF6E225789618B329F5038 /* UIButton+manager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2F6977C19BEFBF5B46F929D555CD1251 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		3AF006F3E75EC7231DC92BA0367E4B35 /* AdjustHeight.h in Headers */ = {isa = PBXBuildFile; fileRef = 742E10070BCA535BCE452969453BDAF2 /* AdjustHeight.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		447DF5799FF1012FD13DBD4DA2949FC3 /* NSSet+HYBUnicodeReadable.m in Sources */ = {isa = PBXBuildFile; fileRef = 2201F918928D42D7FB36481F99A15816 /* NSSet+HYBUnicodeReadable.m */; };
-		4B1D068D43393E33E3EE8A40719BB402 /* UITextField+manager.m in Sources */ = {isa = PBXBuildFile; fileRef = 60920E9929F1CD4F00C5ED9D92AF1F82 /* UITextField+manager.m */; };
-		4D9CC80E75F6FB30C920C95E73D4D9D9 /* UIView+Expand.h in Headers */ = {isa = PBXBuildFile; fileRef = 497DB32CCB8D5956A82D3276EC5E738D /* UIView+Expand.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		55CB444C279745853B7FC0FA83714F83 /* UIScreen+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BE70F712FCDF568EE289D57B8838C15 /* UIScreen+Extension.m */; };
-		5DD74DD9284CD4BAA5CB870142B85AEF /* UIView+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 27CE587FB78746E81A82FF78AF6BF97D /* UIView+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4EA73E58175C9BA4029B4CA2A3134458 /* UIView+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = F01D81F7A003A06E0B4F8A00B17306BA /* UIView+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		54B03B34E6E1D3C641E563721EF442D9 /* NSSet+HYBUnicodeReadable.m in Sources */ = {isa = PBXBuildFile; fileRef = 03B5E79C4BD93A019A47B764EE2099F4 /* NSSet+HYBUnicodeReadable.m */; };
+		5A5F21B4A72D7613B301BF5BC747D817 /* UILabel+setProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = B3C0AB3AE0362BDAB53F0D44FCFDE10E /* UILabel+setProperty.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		623E31668E3A330D895F6A8E691D4459 /* Pods-hhxProperty_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6511F6F36DB246E0F5E662E79AA81B1E /* Pods-hhxProperty_Example-dummy.m */; };
-		6601C09315DFC8B7D1B3CD2990AE9E2F /* UITextView+setProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = CF3974DD8CA8CE3CE8B1D39FA058E546 /* UITextView+setProperty.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		67FCFF873C1E05F2EAF7550159E82C19 /* UIView+IBExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = FFCFF6E7F4319EB7CA118F791104B08C /* UIView+IBExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		66998ED0197DB5BDD85AC38D6705E927 /* UITextView+setProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 9962CA4C52E3676953A527FF9B90B3E1 /* UITextView+setProperty.m */; };
 		692E4F8C3E030378B2020F6931225252 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		6CD5A1E71B89FEA6B1229959966F85FE /* UITextField+manager.h in Headers */ = {isa = PBXBuildFile; fileRef = F9EFAC85FE1EAF94520C977B844D8761 /* UITextField+manager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6ED64C9B620E76D62569B59676B4DC9A /* NSArray+HYBUnicodeReadable.m in Sources */ = {isa = PBXBuildFile; fileRef = D3BA26E9839C04853649B8595AB9C276 /* NSArray+HYBUnicodeReadable.m */; };
-		70624502358316BE75A6A6E9AAC2830A /* UIButton+manager.h in Headers */ = {isa = PBXBuildFile; fileRef = 56A79B3D112F7E46EE29987DE64EC752 /* UIButton+manager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		70CDEA7B1C0DA26C2D12E046081F14CF /* UIButton+manager.m in Sources */ = {isa = PBXBuildFile; fileRef = 36F64BEE5C5C4355F25DA3E307C82ED0 /* UIButton+manager.m */; };
-		724D6F1FB38FFA77F1CFC2558CF081C0 /* UIImageView+BorderCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 78D59C07F14DF6E4F8638946836403F0 /* UIImageView+BorderCorner.m */; };
-		75A3EAB1B8C2FF6D3B559FE432264ABC /* NSDictionary+HYBUnicodeReadable.h in Headers */ = {isa = PBXBuildFile; fileRef = 75D60159AFE6F3E1EFA1018D4F16E84E /* NSDictionary+HYBUnicodeReadable.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81EF101DBB3874774A0F247279A488D3 /* UIButton+layout.h in Headers */ = {isa = PBXBuildFile; fileRef = EA4FD7778586D8D03EB5A1810F8A626F /* UIButton+layout.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		86E450388DDB6F9B09412B9B2D66B783 /* UIView+Expand.m in Sources */ = {isa = PBXBuildFile; fileRef = B9202A0E7943310F27D04E807DA6CE47 /* UIView+Expand.m */; };
-		8A08BA2DC548040428BE16A400AD855F /* UIView+IBExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = E78653FAC3C56995A82349C419F66335 /* UIView+IBExtension.m */; };
-		8B2248CA7E1FFDC747F83DCAFB4925DB /* NSDictionary+HYBUnicodeReadable.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CA724398DC1B7F0A661C47DD2A4E346 /* NSDictionary+HYBUnicodeReadable.m */; };
-		8F37CDD0C313F5082DE5F58E0A3B47CB /* UIScrollView+SLEmptyDataPrompt.m in Sources */ = {isa = PBXBuildFile; fileRef = 98157E3A57BCB171F1BDFF7C5D9D61F2 /* UIScrollView+SLEmptyDataPrompt.m */; };
-		9036CA821EE81008DA5CF34799DF2118 /* UILabel+setProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = DEADC5CA95EA94CF6A20A86156B49C00 /* UILabel+setProperty.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		972914B5D56C7FE9FB349EC97246723C /* UITextView+setProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = C215EDAC7DA4F513559CC977DA700028 /* UITextView+setProperty.m */; };
-		B20D19C72CF31CCED35B04DAFDD93DB6 /* NSSet+HYBUnicodeReadable.h in Headers */ = {isa = PBXBuildFile; fileRef = AE3F6591EDFF5A0F0366402B732276DA /* NSSet+HYBUnicodeReadable.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8639AAD81C839BECDF9AF747E5EF7CA7 /* NSArray+HYBUnicodeReadable.m in Sources */ = {isa = PBXBuildFile; fileRef = 577C8036079964EB5674C327448A2BAC /* NSArray+HYBUnicodeReadable.m */; };
+		871C0D71E82DC94FD6DEA4F5BA5D98D9 /* UIImageView+BorderCorner.h in Headers */ = {isa = PBXBuildFile; fileRef = 131C32856F9E4E10D8F0773364882A3B /* UIImageView+BorderCorner.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8E297DB4DF8842D435E3BE1279535810 /* AdjustHeight.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CAC60183A45A04AFF06748688294AA3 /* AdjustHeight.m */; };
+		9479B6F034AA1BBF732DF56EDA959865 /* UIButton+layout.m in Sources */ = {isa = PBXBuildFile; fileRef = DF190E611073C563E9CED1D34D7FFE80 /* UIButton+layout.m */; };
+		9CF908881F51B07995ECD89F2B21042A /* UIView+IBExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = B672E47D7E1117C4C166DBFB5043ADDA /* UIView+IBExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A08FD83BD691FC1247153C83CCEF22CF /* UIView+Expand.m in Sources */ = {isa = PBXBuildFile; fileRef = 91D4DCF81CB4094F0186F2507A16BFA1 /* UIView+Expand.m */; };
+		ACB0E8C073BF992E8D7B2BB9844B01B0 /* UITextField+setProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F0EDCC83D46F5364FD7687E0A9E3DD9 /* UITextField+setProperty.m */; };
+		B55A7824C323AAB7E6EE31FF9649ABEE /* UIScreen+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = ECD0461E72A1C2A0DC089162DA25FAD8 /* UIScreen+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B582281BD880BCAE267F8DDA965A2C85 /* UIColor+Hex.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A50657820BC893F9422A6FFB55BA53 /* UIColor+Hex.m */; };
+		B816F9313E399D3304299D57C827422C /* NSArray+HYBUnicodeReadable.h in Headers */ = {isa = PBXBuildFile; fileRef = D281FCA0A035C88CF890D6A55B24CE3B /* NSArray+HYBUnicodeReadable.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BBAED51D94D579CEF2D936B46EF0B0E6 /* Pods-hhxProperty_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5434620B461D708CE6DB96BAD03B8499 /* Pods-hhxProperty_Tests-dummy.m */; };
-		BE81BDD849F4721521F8C9E91C07A246 /* UIImageView+BorderCorner.h in Headers */ = {isa = PBXBuildFile; fileRef = 7689F57B6192378EF8146B995DEB9E9D /* UIImageView+BorderCorner.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C055A113D569C19A9CB9FBE5CF729E70 /* UIButton+layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CBEFA29EB70175A9450EC349391FA4D /* UIButton+layout.m */; };
-		C4BCA30858038C562D9B07E7885EE1BA /* hhxProperty-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F9E3E8B2C3DED2F9A01E0CF4A2585958 /* hhxProperty-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C4BCA30858038C562D9B07E7885EE1BA /* hhxProperty-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 874F953673D31F21754F59413A9986FB /* hhxProperty-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C4D34AACB156A29A82AD284B6DBEB704 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		D043E63EC0D54CE8D5D26870305DEDF2 /* UIScrollView+SLEmptyDataPrompt.h in Headers */ = {isa = PBXBuildFile; fileRef = D74D86ACBB8778B6FB0AAE7102FF5856 /* UIScrollView+SLEmptyDataPrompt.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DCBDB589B42194FEAC1820436C330579 /* UIScreen+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 083B42FF45C8CCE231EBF394C3B7A675 /* UIScreen+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DFD2EFDB6AF35A88F68F42D2FEA800C1 /* UIColor+Hex.h in Headers */ = {isa = PBXBuildFile; fileRef = 0867A94BD97C425938B4804AACF05523 /* UIColor+Hex.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E788199F25FA8469517EB3F5604F5268 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 649092BE2F5DE5B3AC827D96C7604912 /* UIView+Extension.m */; };
+		CBAE7848C41581688A76084AEB73E558 /* UITextField+manager.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DB2F18404938FECB3C03576B907B06C /* UITextField+manager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CC2EEA65E7CD2F8A8DE1128617A9D45D /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CE93031DD2674D208E5E3AA81E96BBC /* UIView+Extension.m */; };
+		CD04701A9351C55F8DFCD5CB512C2CEB /* UIScrollView+SLEmptyDataPrompt.m in Sources */ = {isa = PBXBuildFile; fileRef = ECC5B7B0983E340037B4A7830BED9663 /* UIScrollView+SLEmptyDataPrompt.m */; };
+		CF8E4194529F5074F6C4B82BA6F3DFA9 /* UILabel+setProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 7853D2322095D3EBD4804FB45A26E6F4 /* UILabel+setProperty.m */; };
+		D12DFD3B81985C194CE315CB20B83746 /* UIButton+manager.m in Sources */ = {isa = PBXBuildFile; fileRef = B3BECD307F83AD3CC2B9759D1F082334 /* UIButton+manager.m */; };
+		D6CAA0FC1F667A8BBDAE64B9E7DF6DBE /* UITextField+manager.m in Sources */ = {isa = PBXBuildFile; fileRef = 017470914BF9E0C7A656872D38E7EE0F /* UITextField+manager.m */; };
+		E1C25709F4F7D0E6794CBA9BE13A540D /* UIScreen+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = DC7814604FFE2749A291F174C695FFC3 /* UIScreen+Extension.m */; };
+		E52DF9473846E8B5FCBFC779F0ED1614 /* NSDictionary+HYBUnicodeReadable.m in Sources */ = {isa = PBXBuildFile; fileRef = DD498C9FF3225BB6F1EB2E5FC71A7BE5 /* NSDictionary+HYBUnicodeReadable.m */; };
+		EA73E7C046724305855B1F0ED26BF472 /* UIView+IBExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 654A44CFD9674D48FC7C8A6CD560D022 /* UIView+IBExtension.m */; };
+		EC0947345D3D2DFEE1DB4FB7129F0EB9 /* UIButton+layout.h in Headers */ = {isa = PBXBuildFile; fileRef = 18A78E02A8DEECDDA76DDF0A0E948F31 /* UIButton+layout.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F2C7CF2D810DE4A41E8E9CFF6817A238 /* UITextView+setProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F0477C8C97C6902255215865E1EDE26 /* UITextView+setProperty.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F2DCBD5D6FB952CD3495DADFD3B38CC1 /* UIView+Expand.h in Headers */ = {isa = PBXBuildFile; fileRef = 700D764365C8D57D9E35C1717A032C87 /* UIView+Expand.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F2FCFB6F91A2646B45C10A4639E7FF6C /* UIColor+Hex.h in Headers */ = {isa = PBXBuildFile; fileRef = D75C09ACE79EF6FBD8DBA30BA41DEC2C /* UIColor+Hex.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F3553AF1743587D9D9BBFF8C09257B61 /* UIScrollView+SLEmptyDataPrompt.h in Headers */ = {isa = PBXBuildFile; fileRef = E588B8FE64756E6ED6D53005C5B4E201 /* UIScrollView+SLEmptyDataPrompt.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F55EFC5A5A1AACEC6A02F2017FD06A00 /* Pods-hhxProperty_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F9BCEC572B98E6B4F7CA2C4FDCAAB2F8 /* Pods-hhxProperty_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F9D5B281862606BD06E616D79C619A37 /* UIColor+Hex.m in Sources */ = {isa = PBXBuildFile; fileRef = D47C53C5C294730260AF9878AEA75A1A /* UIColor+Hex.m */; };
+		F7A29A4EE100FFA292741F470BDADED1 /* AdjustHeight.h in Headers */ = {isa = PBXBuildFile; fileRef = 42885AADDA0CFE7535738DC0CC7E5126 /* AdjustHeight.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FBACD6632CD07117809C5DC52432CD3E /* UITextField+setProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = F50C89780DF6AF753423010AC87914B7 /* UITextField+setProperty.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,72 +70,72 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		083B42FF45C8CCE231EBF394C3B7A675 /* UIScreen+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScreen+Extension.h"; path = "hhxProperty/Classes/UIScreen+Extension.h"; sourceTree = "<group>"; };
-		0867A94BD97C425938B4804AACF05523 /* UIColor+Hex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+Hex.h"; path = "hhxProperty/Classes/UIColor+Hex.h"; sourceTree = "<group>"; };
-		0C926C77C818354E1DB15C0D441E9ACA /* hhxProperty.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = hhxProperty.xcconfig; sourceTree = "<group>"; };
+		0072DD4B7B8FDB4C6E9D8E393E6CA762 /* hhxProperty.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = hhxProperty.xcconfig; sourceTree = "<group>"; };
+		017470914BF9E0C7A656872D38E7EE0F /* UITextField+manager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+manager.m"; path = "hhxProperty/Classes/categoryFile/UITextField+manager.m"; sourceTree = "<group>"; };
+		03B5E79C4BD93A019A47B764EE2099F4 /* NSSet+HYBUnicodeReadable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSSet+HYBUnicodeReadable.m"; path = "hhxProperty/Classes/categoryFile/NSSet+HYBUnicodeReadable.m"; sourceTree = "<group>"; };
+		079C48B55A491DFAE14C41A78368FBF3 /* hhxProperty-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "hhxProperty-prefix.pch"; sourceTree = "<group>"; };
+		0CAC60183A45A04AFF06748688294AA3 /* AdjustHeight.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AdjustHeight.m; path = hhxProperty/Classes/categoryFile/AdjustHeight.m; sourceTree = "<group>"; };
+		0EB0C2C6518A3A7E23EFD505F321DC69 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		131C32856F9E4E10D8F0773364882A3B /* UIImageView+BorderCorner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+BorderCorner.h"; path = "hhxProperty/Classes/categoryFile/UIImageView+BorderCorner.h"; sourceTree = "<group>"; };
 		16A051E44D8D24CB56A19D7850D47023 /* hhxProperty.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = hhxProperty.framework; path = hhxProperty.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		16B2AB7AE0D764BFEF0B3BA255AE7E33 /* hhxProperty-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "hhxProperty-dummy.m"; sourceTree = "<group>"; };
 		177FCB36B5CE6DC29C15AA46B19B7BB5 /* Pods-hhxProperty_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-hhxProperty_Example-umbrella.h"; sourceTree = "<group>"; };
+		1803913530054A44B442D07B9F6A76AE /* hhxProperty.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = hhxProperty.modulemap; sourceTree = "<group>"; };
 		18271362D0A872C7A2F15D5767960518 /* Pods-hhxProperty_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-hhxProperty_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		2201F918928D42D7FB36481F99A15816 /* NSSet+HYBUnicodeReadable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSSet+HYBUnicodeReadable.m"; path = "hhxProperty/Classes/NSSet+HYBUnicodeReadable.m"; sourceTree = "<group>"; };
+		18A78E02A8DEECDDA76DDF0A0E948F31 /* UIButton+layout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+layout.h"; path = "hhxProperty/Classes/categoryFile/UIButton+layout.h"; sourceTree = "<group>"; };
 		26544441DECE8F14612DB3A6D7148589 /* Pods-hhxProperty_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-hhxProperty_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		27CE587FB78746E81A82FF78AF6BF97D /* UIView+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Extension.h"; path = "hhxProperty/Classes/UIView+Extension.h"; sourceTree = "<group>"; };
-		2CBEFA29EB70175A9450EC349391FA4D /* UIButton+layout.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+layout.m"; path = "hhxProperty/Classes/UIButton+layout.m"; sourceTree = "<group>"; };
+		297A41056AA07D0FB576BFB1E7AE03EA /* NSSet+HYBUnicodeReadable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSSet+HYBUnicodeReadable.h"; path = "hhxProperty/Classes/categoryFile/NSSet+HYBUnicodeReadable.h"; sourceTree = "<group>"; };
 		2ED0596C7A46A9BDC78BD6CC5D3F0B48 /* Pods-hhxProperty_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-hhxProperty_Tests-Info.plist"; sourceTree = "<group>"; };
-		31A422DF486A68057F3FA2A0BD51B7FF /* hhxProperty.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = hhxProperty.framework; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		36F64BEE5C5C4355F25DA3E307C82ED0 /* UIButton+manager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+manager.m"; path = "hhxProperty/Classes/UIButton+manager.m"; sourceTree = "<group>"; };
-		3A582AC32372EF07E34CFC3E9A776A2D /* hhxProperty-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "hhxProperty-prefix.pch"; sourceTree = "<group>"; };
 		3C4838D53E38EA6C97F08BF4816A534C /* Pods-hhxProperty_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-hhxProperty_Tests.modulemap"; sourceTree = "<group>"; };
 		3EC64E8D939B42D944436B21C2A433E2 /* Pods_hhxProperty_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_hhxProperty_Example.framework; path = "Pods-hhxProperty_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		497DB32CCB8D5956A82D3276EC5E738D /* UIView+Expand.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Expand.h"; path = "hhxProperty/Classes/UIView+Expand.h"; sourceTree = "<group>"; };
-		4CA724398DC1B7F0A661C47DD2A4E346 /* NSDictionary+HYBUnicodeReadable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDictionary+HYBUnicodeReadable.m"; path = "hhxProperty/Classes/NSDictionary+HYBUnicodeReadable.m"; sourceTree = "<group>"; };
+		42885AADDA0CFE7535738DC0CC7E5126 /* AdjustHeight.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AdjustHeight.h; path = hhxProperty/Classes/categoryFile/AdjustHeight.h; sourceTree = "<group>"; };
+		455041C806682266DA433FDD89E99B7D /* hhxProperty.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = hhxProperty.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		4DB2F18404938FECB3C03576B907B06C /* UITextField+manager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+manager.h"; path = "hhxProperty/Classes/categoryFile/UITextField+manager.h"; sourceTree = "<group>"; };
 		5434620B461D708CE6DB96BAD03B8499 /* Pods-hhxProperty_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-hhxProperty_Tests-dummy.m"; sourceTree = "<group>"; };
-		56A79B3D112F7E46EE29987DE64EC752 /* UIButton+manager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+manager.h"; path = "hhxProperty/Classes/UIButton+manager.h"; sourceTree = "<group>"; };
-		60920E9929F1CD4F00C5ED9D92AF1F82 /* UITextField+manager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+manager.m"; path = "hhxProperty/Classes/UITextField+manager.m"; sourceTree = "<group>"; };
-		649092BE2F5DE5B3AC827D96C7604912 /* UIView+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Extension.m"; path = "hhxProperty/Classes/UIView+Extension.m"; sourceTree = "<group>"; };
-		64D7727F817BC69C42125386DFD9E337 /* NSArray+HYBUnicodeReadable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+HYBUnicodeReadable.h"; path = "hhxProperty/Classes/NSArray+HYBUnicodeReadable.h"; sourceTree = "<group>"; };
+		54B15B8C9958F73AA81779423EADA1AC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		577C8036079964EB5674C327448A2BAC /* NSArray+HYBUnicodeReadable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+HYBUnicodeReadable.m"; path = "hhxProperty/Classes/categoryFile/NSArray+HYBUnicodeReadable.m"; sourceTree = "<group>"; };
 		6511F6F36DB246E0F5E662E79AA81B1E /* Pods-hhxProperty_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-hhxProperty_Example-dummy.m"; sourceTree = "<group>"; };
+		654A44CFD9674D48FC7C8A6CD560D022 /* UIView+IBExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+IBExtension.m"; path = "hhxProperty/Classes/categoryFile/UIView+IBExtension.m"; sourceTree = "<group>"; };
 		683FD60ACE6614EC03F3DE26E075F3B6 /* Pods-hhxProperty_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hhxProperty_Example.release.xcconfig"; sourceTree = "<group>"; };
-		6DDD5AE38907146544E44E33B067623A /* UILabel+setProperty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UILabel+setProperty.m"; path = "hhxProperty/Classes/UILabel+setProperty.m"; sourceTree = "<group>"; };
+		6EC80FD6C750396370970048A21F1E4D /* NSDictionary+HYBUnicodeReadable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDictionary+HYBUnicodeReadable.h"; path = "hhxProperty/Classes/categoryFile/NSDictionary+HYBUnicodeReadable.h"; sourceTree = "<group>"; };
+		6F0477C8C97C6902255215865E1EDE26 /* UITextView+setProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextView+setProperty.h"; path = "hhxProperty/Classes/categoryFile/UITextView+setProperty.h"; sourceTree = "<group>"; };
+		6F0EDCC83D46F5364FD7687E0A9E3DD9 /* UITextField+setProperty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+setProperty.m"; path = "hhxProperty/Classes/categoryFile/UITextField+setProperty.m"; sourceTree = "<group>"; };
+		700D764365C8D57D9E35C1717A032C87 /* UIView+Expand.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Expand.h"; path = "hhxProperty/Classes/categoryFile/UIView+Expand.h"; sourceTree = "<group>"; };
 		70A36F45B76CC4A30D608A50DB322FBC /* Pods-hhxProperty_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hhxProperty_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		742E10070BCA535BCE452969453BDAF2 /* AdjustHeight.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AdjustHeight.h; path = hhxProperty/Classes/AdjustHeight.h; sourceTree = "<group>"; };
-		75D60159AFE6F3E1EFA1018D4F16E84E /* NSDictionary+HYBUnicodeReadable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDictionary+HYBUnicodeReadable.h"; path = "hhxProperty/Classes/NSDictionary+HYBUnicodeReadable.h"; sourceTree = "<group>"; };
-		7689F57B6192378EF8146B995DEB9E9D /* UIImageView+BorderCorner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+BorderCorner.h"; path = "hhxProperty/Classes/UIImageView+BorderCorner.h"; sourceTree = "<group>"; };
-		78227CA04DD24DAE79210C0724EC569F /* hhxProperty-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "hhxProperty-dummy.m"; sourceTree = "<group>"; };
-		78D59C07F14DF6E4F8638946836403F0 /* UIImageView+BorderCorner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+BorderCorner.m"; path = "hhxProperty/Classes/UIImageView+BorderCorner.m"; sourceTree = "<group>"; };
-		83E3B5BA21EC5AE32E10E36F411980CC /* hhxProperty.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = hhxProperty.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		72F0544777CF6E225789618B329F5038 /* UIButton+manager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+manager.h"; path = "hhxProperty/Classes/categoryFile/UIButton+manager.h"; sourceTree = "<group>"; };
+		7853D2322095D3EBD4804FB45A26E6F4 /* UILabel+setProperty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UILabel+setProperty.m"; path = "hhxProperty/Classes/categoryFile/UILabel+setProperty.m"; sourceTree = "<group>"; };
+		856A94718CA2B247CBF0ACCBCC1843D2 /* UIImageView+BorderCorner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+BorderCorner.m"; path = "hhxProperty/Classes/categoryFile/UIImageView+BorderCorner.m"; sourceTree = "<group>"; };
+		874F953673D31F21754F59413A9986FB /* hhxProperty-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "hhxProperty-umbrella.h"; sourceTree = "<group>"; };
 		8EDA03E2BB25850D6D1CB89D09D5E8A5 /* Pods-hhxProperty_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-hhxProperty_Example-frameworks.sh"; sourceTree = "<group>"; };
 		90375F5F4BB4E8B776F041C6752740E4 /* Pods-hhxProperty_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-hhxProperty_Example.modulemap"; sourceTree = "<group>"; };
-		98157E3A57BCB171F1BDFF7C5D9D61F2 /* UIScrollView+SLEmptyDataPrompt.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+SLEmptyDataPrompt.m"; path = "hhxProperty/Classes/UIScrollView+SLEmptyDataPrompt.m"; sourceTree = "<group>"; };
-		98A37F6FF09D7E49D937D7BA449D4EFD /* UITextField+setProperty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+setProperty.m"; path = "hhxProperty/Classes/UITextField+setProperty.m"; sourceTree = "<group>"; };
-		9B117789046E0F745C2611EB140A0AFD /* hhxProperty-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "hhxProperty-Info.plist"; sourceTree = "<group>"; };
-		9BE70F712FCDF568EE289D57B8838C15 /* UIScreen+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScreen+Extension.m"; path = "hhxProperty/Classes/UIScreen+Extension.m"; sourceTree = "<group>"; };
+		90A50657820BC893F9422A6FFB55BA53 /* UIColor+Hex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Hex.m"; path = "hhxProperty/Classes/categoryFile/UIColor+Hex.m"; sourceTree = "<group>"; };
+		91D4DCF81CB4094F0186F2507A16BFA1 /* UIView+Expand.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Expand.m"; path = "hhxProperty/Classes/categoryFile/UIView+Expand.m"; sourceTree = "<group>"; };
+		9962CA4C52E3676953A527FF9B90B3E1 /* UITextView+setProperty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextView+setProperty.m"; path = "hhxProperty/Classes/categoryFile/UITextView+setProperty.m"; sourceTree = "<group>"; };
+		9CE93031DD2674D208E5E3AA81E96BBC /* UIView+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Extension.m"; path = "hhxProperty/Classes/categoryFile/UIView+Extension.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A634F336106D94BF9106844D8B5E3A32 /* AdjustHeight.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AdjustHeight.m; path = hhxProperty/Classes/AdjustHeight.m; sourceTree = "<group>"; };
 		A6D10F88CBB44BE7B077BF19B056B749 /* Pods-hhxProperty_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-hhxProperty_Example-Info.plist"; sourceTree = "<group>"; };
-		AE3F6591EDFF5A0F0366402B732276DA /* NSSet+HYBUnicodeReadable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSSet+HYBUnicodeReadable.h"; path = "hhxProperty/Classes/NSSet+HYBUnicodeReadable.h"; sourceTree = "<group>"; };
+		B3BECD307F83AD3CC2B9759D1F082334 /* UIButton+manager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+manager.m"; path = "hhxProperty/Classes/categoryFile/UIButton+manager.m"; sourceTree = "<group>"; };
+		B3C0AB3AE0362BDAB53F0D44FCFDE10E /* UILabel+setProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UILabel+setProperty.h"; path = "hhxProperty/Classes/categoryFile/UILabel+setProperty.h"; sourceTree = "<group>"; };
 		B56C7202B3C35A845E5FCEA7C3CDCAD6 /* Pods-hhxProperty_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hhxProperty_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		B9202A0E7943310F27D04E807DA6CE47 /* UIView+Expand.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Expand.m"; path = "hhxProperty/Classes/UIView+Expand.m"; sourceTree = "<group>"; };
-		C0EB297457B5AFD6FCE64D1DBF85EC81 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		C215EDAC7DA4F513559CC977DA700028 /* UITextView+setProperty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextView+setProperty.m"; path = "hhxProperty/Classes/UITextView+setProperty.m"; sourceTree = "<group>"; };
-		CF3974DD8CA8CE3CE8B1D39FA058E546 /* UITextView+setProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextView+setProperty.h"; path = "hhxProperty/Classes/UITextView+setProperty.h"; sourceTree = "<group>"; };
+		B672E47D7E1117C4C166DBFB5043ADDA /* UIView+IBExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+IBExtension.h"; path = "hhxProperty/Classes/categoryFile/UIView+IBExtension.h"; sourceTree = "<group>"; };
 		D0FFEECF1A4DBD0E930F937B77DA030E /* Pods-hhxProperty_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hhxProperty_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		D3BA26E9839C04853649B8595AB9C276 /* NSArray+HYBUnicodeReadable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+HYBUnicodeReadable.m"; path = "hhxProperty/Classes/NSArray+HYBUnicodeReadable.m"; sourceTree = "<group>"; };
-		D47C53C5C294730260AF9878AEA75A1A /* UIColor+Hex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Hex.m"; path = "hhxProperty/Classes/UIColor+Hex.m"; sourceTree = "<group>"; };
+		D27D0E9B163CB971FFC08F822EC22961 /* hhxProperty.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = hhxProperty.framework; sourceTree = "<group>"; };
+		D281FCA0A035C88CF890D6A55B24CE3B /* NSArray+HYBUnicodeReadable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+HYBUnicodeReadable.h"; path = "hhxProperty/Classes/categoryFile/NSArray+HYBUnicodeReadable.h"; sourceTree = "<group>"; };
 		D4E84DB03DBCCC4E3F117D7443B5D275 /* Pods-hhxProperty_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-hhxProperty_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		D74D86ACBB8778B6FB0AAE7102FF5856 /* UIScrollView+SLEmptyDataPrompt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+SLEmptyDataPrompt.h"; path = "hhxProperty/Classes/UIScrollView+SLEmptyDataPrompt.h"; sourceTree = "<group>"; };
-		DEADC5CA95EA94CF6A20A86156B49C00 /* UILabel+setProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UILabel+setProperty.h"; path = "hhxProperty/Classes/UILabel+setProperty.h"; sourceTree = "<group>"; };
+		D75C09ACE79EF6FBD8DBA30BA41DEC2C /* UIColor+Hex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+Hex.h"; path = "hhxProperty/Classes/categoryFile/UIColor+Hex.h"; sourceTree = "<group>"; };
+		DC7814604FFE2749A291F174C695FFC3 /* UIScreen+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScreen+Extension.m"; path = "hhxProperty/Classes/categoryFile/UIScreen+Extension.m"; sourceTree = "<group>"; };
+		DD498C9FF3225BB6F1EB2E5FC71A7BE5 /* NSDictionary+HYBUnicodeReadable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDictionary+HYBUnicodeReadable.m"; path = "hhxProperty/Classes/categoryFile/NSDictionary+HYBUnicodeReadable.m"; sourceTree = "<group>"; };
+		DF190E611073C563E9CED1D34D7FFE80 /* UIButton+layout.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+layout.m"; path = "hhxProperty/Classes/categoryFile/UIButton+layout.m"; sourceTree = "<group>"; };
 		E48BFABB3FF02616AD1EA2C58063A876 /* Pods_hhxProperty_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_hhxProperty_Tests.framework; path = "Pods-hhxProperty_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E4FB883100F91C531A25F282FE3F6C14 /* hhxProperty.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = hhxProperty.modulemap; sourceTree = "<group>"; };
-		E78653FAC3C56995A82349C419F66335 /* UIView+IBExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+IBExtension.m"; path = "hhxProperty/Classes/UIView+IBExtension.m"; sourceTree = "<group>"; };
-		EA4FD7778586D8D03EB5A1810F8A626F /* UIButton+layout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+layout.h"; path = "hhxProperty/Classes/UIButton+layout.h"; sourceTree = "<group>"; };
-		F7FACD60A09AE7DE85CF554FF8540C1F /* UITextField+setProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+setProperty.h"; path = "hhxProperty/Classes/UITextField+setProperty.h"; sourceTree = "<group>"; };
+		E588B8FE64756E6ED6D53005C5B4E201 /* UIScrollView+SLEmptyDataPrompt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+SLEmptyDataPrompt.h"; path = "hhxProperty/Classes/categoryFile/UIScrollView+SLEmptyDataPrompt.h"; sourceTree = "<group>"; };
+		ECC5B7B0983E340037B4A7830BED9663 /* UIScrollView+SLEmptyDataPrompt.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+SLEmptyDataPrompt.m"; path = "hhxProperty/Classes/categoryFile/UIScrollView+SLEmptyDataPrompt.m"; sourceTree = "<group>"; };
+		ECD0461E72A1C2A0DC089162DA25FAD8 /* UIScreen+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScreen+Extension.h"; path = "hhxProperty/Classes/categoryFile/UIScreen+Extension.h"; sourceTree = "<group>"; };
+		F01D81F7A003A06E0B4F8A00B17306BA /* UIView+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Extension.h"; path = "hhxProperty/Classes/categoryFile/UIView+Extension.h"; sourceTree = "<group>"; };
+		F50C89780DF6AF753423010AC87914B7 /* UITextField+setProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+setProperty.h"; path = "hhxProperty/Classes/categoryFile/UITextField+setProperty.h"; sourceTree = "<group>"; };
 		F9BCEC572B98E6B4F7CA2C4FDCAAB2F8 /* Pods-hhxProperty_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-hhxProperty_Tests-umbrella.h"; sourceTree = "<group>"; };
-		F9E3E8B2C3DED2F9A01E0CF4A2585958 /* hhxProperty-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "hhxProperty-umbrella.h"; sourceTree = "<group>"; };
-		F9EFAC85FE1EAF94520C977B844D8761 /* UITextField+manager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+manager.h"; path = "hhxProperty/Classes/UITextField+manager.h"; sourceTree = "<group>"; };
 		FA60ADA51F7C4162E8B9FE646FD20092 /* Pods-hhxProperty_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-hhxProperty_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		FB18601E00708466FF955547AEDDDD7C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		FFCFF6E7F4319EB7CA118F791104B08C /* UIView+IBExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+IBExtension.h"; path = "hhxProperty/Classes/UIView+IBExtension.h"; sourceTree = "<group>"; };
+		FF47703A0F6FFED0328CC16C097D3E4D /* hhxProperty-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "hhxProperty-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,64 +202,78 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		426A36D455148F37688DCAF5009990C1 /* Pod */ = {
+		37FF5A8A0D2B80E031630B91792064D2 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				83E3B5BA21EC5AE32E10E36F411980CC /* hhxProperty.podspec */,
-				FB18601E00708466FF955547AEDDDD7C /* LICENSE */,
-				C0EB297457B5AFD6FCE64D1DBF85EC81 /* README.md */,
+				1803913530054A44B442D07B9F6A76AE /* hhxProperty.modulemap */,
+				0072DD4B7B8FDB4C6E9D8E393E6CA762 /* hhxProperty.xcconfig */,
+				16B2AB7AE0D764BFEF0B3BA255AE7E33 /* hhxProperty-dummy.m */,
+				FF47703A0F6FFED0328CC16C097D3E4D /* hhxProperty-Info.plist */,
+				079C48B55A491DFAE14C41A78368FBF3 /* hhxProperty-prefix.pch */,
+				874F953673D31F21754F59413A9986FB /* hhxProperty-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/hhxProperty";
+			sourceTree = "<group>";
+		};
+		62E756A9E9C53D65B79A68AFE4A28D0C /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				455041C806682266DA433FDD89E99B7D /* hhxProperty.podspec */,
+				54B15B8C9958F73AA81779423EADA1AC /* LICENSE */,
+				0EB0C2C6518A3A7E23EFD505F321DC69 /* README.md */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		5160EC69DA24FA637EBD2DE21F6F44B3 /* Frameworks */ = {
+		74C64766DD15A0E9D7B37CBD20B0B461 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				31A422DF486A68057F3FA2A0BD51B7FF /* hhxProperty.framework */,
+				D27D0E9B163CB971FFC08F822EC22961 /* hhxProperty.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		857F7811CCDA63334793C07B22825F74 /* hhxProperty */ = {
+		7A18EEE31EE18C48D6D5B38085D80C9A /* hhxProperty */ = {
 			isa = PBXGroup;
 			children = (
-				742E10070BCA535BCE452969453BDAF2 /* AdjustHeight.h */,
-				A634F336106D94BF9106844D8B5E3A32 /* AdjustHeight.m */,
-				64D7727F817BC69C42125386DFD9E337 /* NSArray+HYBUnicodeReadable.h */,
-				D3BA26E9839C04853649B8595AB9C276 /* NSArray+HYBUnicodeReadable.m */,
-				75D60159AFE6F3E1EFA1018D4F16E84E /* NSDictionary+HYBUnicodeReadable.h */,
-				4CA724398DC1B7F0A661C47DD2A4E346 /* NSDictionary+HYBUnicodeReadable.m */,
-				AE3F6591EDFF5A0F0366402B732276DA /* NSSet+HYBUnicodeReadable.h */,
-				2201F918928D42D7FB36481F99A15816 /* NSSet+HYBUnicodeReadable.m */,
-				EA4FD7778586D8D03EB5A1810F8A626F /* UIButton+layout.h */,
-				2CBEFA29EB70175A9450EC349391FA4D /* UIButton+layout.m */,
-				56A79B3D112F7E46EE29987DE64EC752 /* UIButton+manager.h */,
-				36F64BEE5C5C4355F25DA3E307C82ED0 /* UIButton+manager.m */,
-				0867A94BD97C425938B4804AACF05523 /* UIColor+Hex.h */,
-				D47C53C5C294730260AF9878AEA75A1A /* UIColor+Hex.m */,
-				7689F57B6192378EF8146B995DEB9E9D /* UIImageView+BorderCorner.h */,
-				78D59C07F14DF6E4F8638946836403F0 /* UIImageView+BorderCorner.m */,
-				DEADC5CA95EA94CF6A20A86156B49C00 /* UILabel+setProperty.h */,
-				6DDD5AE38907146544E44E33B067623A /* UILabel+setProperty.m */,
-				083B42FF45C8CCE231EBF394C3B7A675 /* UIScreen+Extension.h */,
-				9BE70F712FCDF568EE289D57B8838C15 /* UIScreen+Extension.m */,
-				D74D86ACBB8778B6FB0AAE7102FF5856 /* UIScrollView+SLEmptyDataPrompt.h */,
-				98157E3A57BCB171F1BDFF7C5D9D61F2 /* UIScrollView+SLEmptyDataPrompt.m */,
-				F9EFAC85FE1EAF94520C977B844D8761 /* UITextField+manager.h */,
-				60920E9929F1CD4F00C5ED9D92AF1F82 /* UITextField+manager.m */,
-				F7FACD60A09AE7DE85CF554FF8540C1F /* UITextField+setProperty.h */,
-				98A37F6FF09D7E49D937D7BA449D4EFD /* UITextField+setProperty.m */,
-				CF3974DD8CA8CE3CE8B1D39FA058E546 /* UITextView+setProperty.h */,
-				C215EDAC7DA4F513559CC977DA700028 /* UITextView+setProperty.m */,
-				497DB32CCB8D5956A82D3276EC5E738D /* UIView+Expand.h */,
-				B9202A0E7943310F27D04E807DA6CE47 /* UIView+Expand.m */,
-				27CE587FB78746E81A82FF78AF6BF97D /* UIView+Extension.h */,
-				649092BE2F5DE5B3AC827D96C7604912 /* UIView+Extension.m */,
-				FFCFF6E7F4319EB7CA118F791104B08C /* UIView+IBExtension.h */,
-				E78653FAC3C56995A82349C419F66335 /* UIView+IBExtension.m */,
-				5160EC69DA24FA637EBD2DE21F6F44B3 /* Frameworks */,
-				426A36D455148F37688DCAF5009990C1 /* Pod */,
-				FD02C4E0BDC7FF0FBF4B747EBA461118 /* Support Files */,
+				42885AADDA0CFE7535738DC0CC7E5126 /* AdjustHeight.h */,
+				0CAC60183A45A04AFF06748688294AA3 /* AdjustHeight.m */,
+				D281FCA0A035C88CF890D6A55B24CE3B /* NSArray+HYBUnicodeReadable.h */,
+				577C8036079964EB5674C327448A2BAC /* NSArray+HYBUnicodeReadable.m */,
+				6EC80FD6C750396370970048A21F1E4D /* NSDictionary+HYBUnicodeReadable.h */,
+				DD498C9FF3225BB6F1EB2E5FC71A7BE5 /* NSDictionary+HYBUnicodeReadable.m */,
+				297A41056AA07D0FB576BFB1E7AE03EA /* NSSet+HYBUnicodeReadable.h */,
+				03B5E79C4BD93A019A47B764EE2099F4 /* NSSet+HYBUnicodeReadable.m */,
+				18A78E02A8DEECDDA76DDF0A0E948F31 /* UIButton+layout.h */,
+				DF190E611073C563E9CED1D34D7FFE80 /* UIButton+layout.m */,
+				72F0544777CF6E225789618B329F5038 /* UIButton+manager.h */,
+				B3BECD307F83AD3CC2B9759D1F082334 /* UIButton+manager.m */,
+				D75C09ACE79EF6FBD8DBA30BA41DEC2C /* UIColor+Hex.h */,
+				90A50657820BC893F9422A6FFB55BA53 /* UIColor+Hex.m */,
+				131C32856F9E4E10D8F0773364882A3B /* UIImageView+BorderCorner.h */,
+				856A94718CA2B247CBF0ACCBCC1843D2 /* UIImageView+BorderCorner.m */,
+				B3C0AB3AE0362BDAB53F0D44FCFDE10E /* UILabel+setProperty.h */,
+				7853D2322095D3EBD4804FB45A26E6F4 /* UILabel+setProperty.m */,
+				ECD0461E72A1C2A0DC089162DA25FAD8 /* UIScreen+Extension.h */,
+				DC7814604FFE2749A291F174C695FFC3 /* UIScreen+Extension.m */,
+				E588B8FE64756E6ED6D53005C5B4E201 /* UIScrollView+SLEmptyDataPrompt.h */,
+				ECC5B7B0983E340037B4A7830BED9663 /* UIScrollView+SLEmptyDataPrompt.m */,
+				4DB2F18404938FECB3C03576B907B06C /* UITextField+manager.h */,
+				017470914BF9E0C7A656872D38E7EE0F /* UITextField+manager.m */,
+				F50C89780DF6AF753423010AC87914B7 /* UITextField+setProperty.h */,
+				6F0EDCC83D46F5364FD7687E0A9E3DD9 /* UITextField+setProperty.m */,
+				6F0477C8C97C6902255215865E1EDE26 /* UITextView+setProperty.h */,
+				9962CA4C52E3676953A527FF9B90B3E1 /* UITextView+setProperty.m */,
+				700D764365C8D57D9E35C1717A032C87 /* UIView+Expand.h */,
+				91D4DCF81CB4094F0186F2507A16BFA1 /* UIView+Expand.m */,
+				F01D81F7A003A06E0B4F8A00B17306BA /* UIView+Extension.h */,
+				9CE93031DD2674D208E5E3AA81E96BBC /* UIView+Extension.m */,
+				B672E47D7E1117C4C166DBFB5043ADDA /* UIView+IBExtension.h */,
+				654A44CFD9674D48FC7C8A6CD560D022 /* UIView+IBExtension.m */,
+				74C64766DD15A0E9D7B37CBD20B0B461 /* Frameworks */,
+				62E756A9E9C53D65B79A68AFE4A28D0C /* Pod */,
+				37FF5A8A0D2B80E031630B91792064D2 /* Support Files */,
 			);
 			name = hhxProperty;
 			path = ../..;
@@ -268,7 +282,7 @@
 		95C3E4B5932753383C0201FEC5FDE5C7 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				857F7811CCDA63334793C07B22825F74 /* hhxProperty */,
+				7A18EEE31EE18C48D6D5B38085D80C9A /* hhxProperty */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -316,20 +330,6 @@
 			path = "Target Support Files/Pods-hhxProperty_Tests";
 			sourceTree = "<group>";
 		};
-		FD02C4E0BDC7FF0FBF4B747EBA461118 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				E4FB883100F91C531A25F282FE3F6C14 /* hhxProperty.modulemap */,
-				0C926C77C818354E1DB15C0D441E9ACA /* hhxProperty.xcconfig */,
-				78227CA04DD24DAE79210C0724EC569F /* hhxProperty-dummy.m */,
-				9B117789046E0F745C2611EB140A0AFD /* hhxProperty-Info.plist */,
-				3A582AC32372EF07E34CFC3E9A776A2D /* hhxProperty-prefix.pch */,
-				F9E3E8B2C3DED2F9A01E0CF4A2585958 /* hhxProperty-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/hhxProperty";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -353,24 +353,24 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AF006F3E75EC7231DC92BA0367E4B35 /* AdjustHeight.h in Headers */,
+				F7A29A4EE100FFA292741F470BDADED1 /* AdjustHeight.h in Headers */,
 				C4BCA30858038C562D9B07E7885EE1BA /* hhxProperty-umbrella.h in Headers */,
-				2D22CB0E3DEB684E9B40C8D21BCB5CA0 /* NSArray+HYBUnicodeReadable.h in Headers */,
-				75A3EAB1B8C2FF6D3B559FE432264ABC /* NSDictionary+HYBUnicodeReadable.h in Headers */,
-				B20D19C72CF31CCED35B04DAFDD93DB6 /* NSSet+HYBUnicodeReadable.h in Headers */,
-				81EF101DBB3874774A0F247279A488D3 /* UIButton+layout.h in Headers */,
-				70624502358316BE75A6A6E9AAC2830A /* UIButton+manager.h in Headers */,
-				DFD2EFDB6AF35A88F68F42D2FEA800C1 /* UIColor+Hex.h in Headers */,
-				BE81BDD849F4721521F8C9E91C07A246 /* UIImageView+BorderCorner.h in Headers */,
-				9036CA821EE81008DA5CF34799DF2118 /* UILabel+setProperty.h in Headers */,
-				DCBDB589B42194FEAC1820436C330579 /* UIScreen+Extension.h in Headers */,
-				D043E63EC0D54CE8D5D26870305DEDF2 /* UIScrollView+SLEmptyDataPrompt.h in Headers */,
-				6CD5A1E71B89FEA6B1229959966F85FE /* UITextField+manager.h in Headers */,
-				2827B5277FFE4E108FDEC24E606C71AF /* UITextField+setProperty.h in Headers */,
-				6601C09315DFC8B7D1B3CD2990AE9E2F /* UITextView+setProperty.h in Headers */,
-				4D9CC80E75F6FB30C920C95E73D4D9D9 /* UIView+Expand.h in Headers */,
-				5DD74DD9284CD4BAA5CB870142B85AEF /* UIView+Extension.h in Headers */,
-				67FCFF873C1E05F2EAF7550159E82C19 /* UIView+IBExtension.h in Headers */,
+				B816F9313E399D3304299D57C827422C /* NSArray+HYBUnicodeReadable.h in Headers */,
+				255D0406B0BB9253BF5C3D6EBADDE194 /* NSDictionary+HYBUnicodeReadable.h in Headers */,
+				21762EAEB93F5489E5F1A68216F1C679 /* NSSet+HYBUnicodeReadable.h in Headers */,
+				EC0947345D3D2DFEE1DB4FB7129F0EB9 /* UIButton+layout.h in Headers */,
+				2CAEEBFF5010265A36CDA76272F6964B /* UIButton+manager.h in Headers */,
+				F2FCFB6F91A2646B45C10A4639E7FF6C /* UIColor+Hex.h in Headers */,
+				871C0D71E82DC94FD6DEA4F5BA5D98D9 /* UIImageView+BorderCorner.h in Headers */,
+				5A5F21B4A72D7613B301BF5BC747D817 /* UILabel+setProperty.h in Headers */,
+				B55A7824C323AAB7E6EE31FF9649ABEE /* UIScreen+Extension.h in Headers */,
+				F3553AF1743587D9D9BBFF8C09257B61 /* UIScrollView+SLEmptyDataPrompt.h in Headers */,
+				CBAE7848C41581688A76084AEB73E558 /* UITextField+manager.h in Headers */,
+				FBACD6632CD07117809C5DC52432CD3E /* UITextField+setProperty.h in Headers */,
+				F2C7CF2D810DE4A41E8E9CFF6817A238 /* UITextView+setProperty.h in Headers */,
+				F2DCBD5D6FB952CD3495DADFD3B38CC1 /* UIView+Expand.h in Headers */,
+				4EA73E58175C9BA4029B4CA2A3134458 /* UIView+Extension.h in Headers */,
+				9CF908881F51B07995ECD89F2B21042A /* UIView+IBExtension.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,24 +498,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0484F14E7F3C363E1A565ECF577DA00B /* AdjustHeight.m in Sources */,
+				8E297DB4DF8842D435E3BE1279535810 /* AdjustHeight.m in Sources */,
 				260003DFBFA9C0DBE187B017A0B72EAA /* hhxProperty-dummy.m in Sources */,
-				6ED64C9B620E76D62569B59676B4DC9A /* NSArray+HYBUnicodeReadable.m in Sources */,
-				8B2248CA7E1FFDC747F83DCAFB4925DB /* NSDictionary+HYBUnicodeReadable.m in Sources */,
-				447DF5799FF1012FD13DBD4DA2949FC3 /* NSSet+HYBUnicodeReadable.m in Sources */,
-				C055A113D569C19A9CB9FBE5CF729E70 /* UIButton+layout.m in Sources */,
-				70CDEA7B1C0DA26C2D12E046081F14CF /* UIButton+manager.m in Sources */,
-				F9D5B281862606BD06E616D79C619A37 /* UIColor+Hex.m in Sources */,
-				724D6F1FB38FFA77F1CFC2558CF081C0 /* UIImageView+BorderCorner.m in Sources */,
-				293E7C2CACCD038586C6B2002A900F7C /* UILabel+setProperty.m in Sources */,
-				55CB444C279745853B7FC0FA83714F83 /* UIScreen+Extension.m in Sources */,
-				8F37CDD0C313F5082DE5F58E0A3B47CB /* UIScrollView+SLEmptyDataPrompt.m in Sources */,
-				4B1D068D43393E33E3EE8A40719BB402 /* UITextField+manager.m in Sources */,
-				1569AB34DCC29198D5198940FF21F773 /* UITextField+setProperty.m in Sources */,
-				972914B5D56C7FE9FB349EC97246723C /* UITextView+setProperty.m in Sources */,
-				86E450388DDB6F9B09412B9B2D66B783 /* UIView+Expand.m in Sources */,
-				E788199F25FA8469517EB3F5604F5268 /* UIView+Extension.m in Sources */,
-				8A08BA2DC548040428BE16A400AD855F /* UIView+IBExtension.m in Sources */,
+				8639AAD81C839BECDF9AF747E5EF7CA7 /* NSArray+HYBUnicodeReadable.m in Sources */,
+				E52DF9473846E8B5FCBFC779F0ED1614 /* NSDictionary+HYBUnicodeReadable.m in Sources */,
+				54B03B34E6E1D3C641E563721EF442D9 /* NSSet+HYBUnicodeReadable.m in Sources */,
+				9479B6F034AA1BBF732DF56EDA959865 /* UIButton+layout.m in Sources */,
+				D12DFD3B81985C194CE315CB20B83746 /* UIButton+manager.m in Sources */,
+				B582281BD880BCAE267F8DDA965A2C85 /* UIColor+Hex.m in Sources */,
+				03CC22CAA300DFF5A3242604374E749D /* UIImageView+BorderCorner.m in Sources */,
+				CF8E4194529F5074F6C4B82BA6F3DFA9 /* UILabel+setProperty.m in Sources */,
+				E1C25709F4F7D0E6794CBA9BE13A540D /* UIScreen+Extension.m in Sources */,
+				CD04701A9351C55F8DFCD5CB512C2CEB /* UIScrollView+SLEmptyDataPrompt.m in Sources */,
+				D6CAA0FC1F667A8BBDAE64B9E7DF6DBE /* UITextField+manager.m in Sources */,
+				ACB0E8C073BF992E8D7B2BB9844B01B0 /* UITextField+setProperty.m in Sources */,
+				66998ED0197DB5BDD85AC38D6705E927 /* UITextView+setProperty.m in Sources */,
+				A08FD83BD691FC1247153C83CCEF22CF /* UIView+Expand.m in Sources */,
+				CC2EEA65E7CD2F8A8DE1128617A9D45D /* UIView+Extension.m in Sources */,
+				EA73E7C046724305855B1F0ED26BF472 /* UIView+IBExtension.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -805,7 +805,7 @@
 		};
 		DF92E96585379F58C5169245345AE620 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0C926C77C818354E1DB15C0D441E9ACA /* hhxProperty.xcconfig */;
+			baseConfigurationReference = 0072DD4B7B8FDB4C6E9D8E393E6CA762 /* hhxProperty.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -837,7 +837,7 @@
 		};
 		FB63DC88CD31A733900BB3CE10D3068C /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0C926C77C818354E1DB15C0D441E9ACA /* hhxProperty.xcconfig */;
+			baseConfigurationReference = 0072DD4B7B8FDB4C6E9D8E393E6CA762 /* hhxProperty.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
